@@ -1,4 +1,12 @@
-### Hi there 👋
+### Boas vindas ao meu perfil. 👋
+
+Meu nome é Gabriel Santos Lobato Oliveira 🇧🇷
+- Estou aprendendo a programarcom a plataforma Alura. 👑
+- Me interessam as linguagens de programação: JAVAScript e Scratch 🖥️
+- Tambem estou aprendendo as linguagens de marcação: HTML e CSS ⏰
+- ultilizo esse espaço para salvar meus projetos e compartilhar meus códigos 🥇
+
+### Meu e-mail para contato é: 📧 gabriel.lobato.oliveira@escola.pr.gov.br
 
 <!--
 **gabrielak47/gabrielak47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
