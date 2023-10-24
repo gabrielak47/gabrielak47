@@ -8,6 +8,7 @@ Meu nome é Gabriel Santos Lobato Oliveira 🇧🇷
 
 ### Meu e-mail para contato é: 📧 gabriel.lobato.oliveira@escola.pr.gov.br
 
+![](https://media.tenor.com/x7FrMk4q10IAAAAM/hacker-reality-colored-keyboard.gif)
 <!--
 **gabrielak47/gabrielak47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
